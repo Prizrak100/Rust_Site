@@ -1,0 +1,63 @@
+body{
+margin: 0;
+   padding: 0;
+ background:#1E2020;
+}
+
+
+
+#page_aling{
+font-family:Arial, Calibri, Tahoma;
+font-size:14px;
+color:#BEBEBE;
+width:990px;
+height:490px;
+margin:0px 0px;
+}
+#header{
+
+width: 1985px;
+  height:47px;
+  background:#363636;
+
+}
+#header ul{
+      list-style:none;
+	  float: left;
+	  margin: 8px;
+	  padding:0px;
+	 
+}
+#header ul li{
+float:left;
+}
+#header ul li a{
+text-decoration:none;
+color:#BEBEBE;
+padding: 0px 55px;
+height: 34px;
+display: block;
+line-height: 35px;
+padding-top: 1px;
+text-shadow: 1px 1px 0px rgba(255,255,255,0.2); 
+
+}
+
+#header ul li a:hover {
+background: rgba(0,0,0,0.1);
+color:#eaeaea;
+text-shadow: 1px  0px #6D8A4C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
